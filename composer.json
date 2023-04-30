@@ -1,5 +1,5 @@
 {
-    "name": "masbug/flysystem-google-drive-ext",
+    "name": "egfl/flysystem-google-drive-ext",
     "description": "Flysystem adapter for Google Drive with seamless virtual<=>display path translation",
     "keywords": [
         "flysystem",
